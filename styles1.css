@@ -21,3 +21,16 @@ footer {
 .social-icons a:hover {
     color: #00258b;
 }
+.carousel-item {
+padding: 30px;
+}
+header {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+#cards {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
